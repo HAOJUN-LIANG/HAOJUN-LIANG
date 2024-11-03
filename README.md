@@ -1,4 +1,4 @@
-- Hi, I’m Haojun Liang
+- Hi, I’m Haojun Liang.
 - I’m interested in software engineering and AI.
 - I’m currently a B.Sc. Information Engineering stundent at the Technical University of Munich.
 - How to reach me: liang-haojun@outlook.com / mr.haojun.liang@gmail.com
